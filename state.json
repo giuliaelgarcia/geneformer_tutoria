@@ -1,0 +1,27 @@
+{
+  "_data": null,
+  "_data_files": [
+    {
+      "filename": "dataset.arrow"
+    }
+  ],
+  "_fingerprint": "d0ecb8051603317a",
+  "_format_columns": [
+    "cell_type",
+    "input_ids",
+    "length",
+    "organ_major"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_indexes": {},
+  "_indices": null,
+  "_indices_data_files": [],
+  "_inplace_history": [
+    {
+      "transforms": []
+    }
+  ],
+  "_output_all_columns": false,
+  "_split": null
+}
